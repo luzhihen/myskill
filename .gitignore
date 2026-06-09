@@ -1,0 +1,5 @@
+# TRAE IDE configuration
+.trae/
+
+# macOS
+.DS_Store
